@@ -536,14 +536,14 @@ if(isset($message)){
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>phone number</h3>
-         <p>+123-456-7890</p>
-         <p>+111-222-3333</p>
+         <p>081111111</p>
+         
       </div>
 
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>our address</h3>
-         <p>mumbai, india - 400104</p>
+         <p>Prachinburi, Thailand - 25000</p>
       </div>
 
       <div class="box">
@@ -555,14 +555,14 @@ if(isset($message)){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <p>shaikhanas@gmail.com</p>
-         <p>anasbhai@gmail.com</p>
+         <p>shop shoe@gmail.com</p>
+         
       </div>
 
    </div>
 
    <div class="credit">
-      &copy; copyright @ 2022 by <span>mr. web designer</span> | all rights reserved!
+      &copy; copyright @ 2022 by <span>Shop shoe</span> | all rights reserved!
    </div>
 
 </section>

@@ -384,21 +384,21 @@ if(isset($message)){
       <div class="box">
          <img src="images/aboutshoe01.svg" alt="">
          <h3>copyrighted product</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum quae amet beatae magni numquam facere sit. Tempora vel laboriosam repudiandae!</p>
+         <p>All products are guaranteed authentic. The shop guarantees that all products are genuine.</p>
          <a href="#menu" class="btn">our shopping</a>
       </div>
 
       <div class="box">
          <img src="images/aboutshop02.svg" alt="">
          <h3>Free delivery shop</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum quae amet beatae magni numquam facere sit. Tempora vel laboriosam repudiandae!</p>
+         <p>All products There is a free EMS delivery service by Thailand Post if you wish to send it by another carrier. Additional charges may apply.</p>
          <a href="#menu" class="btn">our shopping</a>
       </div>
 
       <div class="box">
          <img src="images/aboutshop03.svg" alt="">
          <h3>Sale Products!</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum quae amet beatae magni numquam facere sit. Tempora vel laboriosam repudiandae!</p>
+         <p>All items in our store are second-hand items. Once purchased, they cannot be replaced. Please check carefully before ordering.</p>
          <a href="#menu" class="btn">our shopping</a>
       </div>
 
@@ -555,7 +555,7 @@ if(isset($message)){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <p>shop shoe@gmail.com</p>
+         <p>shop_shoe@gmail.com</p>
          
       </div>
 

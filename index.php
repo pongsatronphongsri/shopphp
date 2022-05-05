@@ -521,11 +521,7 @@ if(isset($message)){
 
 <!-- order section ends -->
 
-<!-- faq section starts  -->
 
-
-
-<!-- faq section ends -->
 
 <!-- footer section starts  -->
 
